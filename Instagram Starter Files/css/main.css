@@ -15,14 +15,19 @@ body {
 }
 
 .content {
+  vertical-align: top;
   display: inline-block;
   border: 1px solid red;
   width: 50%;
+  margin: 150px 0px 0px 50px;
+}
+
+.brand {
+  margin-bottom: 100px;
 }
 
 .login {
-  border-width: 2px;
-  background-color: green;
+  border: 1px solid red;
 }
 
 footer ul li {
