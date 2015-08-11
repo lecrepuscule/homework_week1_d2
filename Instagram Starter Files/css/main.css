@@ -30,4 +30,6 @@ footer ul li {
   text-decoration: none;
 }
 
-/*background: #fff url("../images/bgtile.png") repeat-x;*/
+body {
+  background: #fff url("../images/bgtile.png") repeat-x;
+}
