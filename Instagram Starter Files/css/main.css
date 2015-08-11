@@ -19,7 +19,7 @@ body {
   vertical-align: top;
   display: inline-block;
 /*  border: 1px solid red;*/
-  width: 45%;
+  width: 40%;
   margin: 120px 0px 0px 50px;
 }
 
@@ -42,6 +42,10 @@ button {
 h1 {
     font-weight: 600;
     font-size: 15px;
+}
+
+.download img{
+  margin: 10px 15px 0px 0px;
 }
 
 footer ul li {
