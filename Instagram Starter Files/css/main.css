@@ -9,5 +9,25 @@ body {
   margin: 0;
 }
 
+.phoneImg {
+  display: inline-block;
+  padding-left: 200px;
+}
+
+.content {
+  display: inline-block;
+  border: 1px solid red;
+  width: 50%;
+}
+
+.login {
+  border-width: 2px;
+  background-color: green;
+}
+
+footer ul li {
+  display: inline;
+  text-decoration: none;
+}
 
 /*background: #fff url("../images/bgtile.png") repeat-x;*/
