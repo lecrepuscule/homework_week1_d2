@@ -12,14 +12,15 @@ body {
 .phoneImg {
   display: inline-block;
   padding-left: 200px;
+  margin-top: 50px;
 }
 
 .content {
   vertical-align: top;
   display: inline-block;
   border: 1px solid red;
-  width: 50%;
-  margin: 150px 0px 0px 50px;
+  width: 45%;
+  margin: 120px 0px 0px 50px;
 }
 
 .brand {
@@ -29,10 +30,15 @@ body {
 button {
   background-color: white;
   float: right;
+  margin-top: 22px;
 }
 
-p {
+/*article {
   width: 80%;
+}*/
+
+h1 {
+  font-weight: bold;
 }
 
 footer ul li {
@@ -59,4 +65,6 @@ footer {
 
 .backdrop {
   background: #fff url("../images/bgtile.png") repeat-x;
+  display: inline-block;
+  margin-bottom: 50px;
 }
